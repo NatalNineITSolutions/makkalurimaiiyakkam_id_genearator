@@ -1,0 +1,8 @@
+{
+  "name": "makkalurimaiiyakkam-id-generator",
+  "main": "dist/_worker.js",
+  "compatibility_date": "2024-12-07",
+  "assets": {
+    "directory": "./dist"
+  }
+}
